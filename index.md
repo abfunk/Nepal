@@ -1,7 +1,7 @@
 ## Nepal TRMM/GPM
 
 ### Maps
-1. [Near-surface Z >= 40 dBZ](abfunk.github.io/Nepal/images/maps/nepal_points_map_ge_40_dbz.html)
+1. [Near-surface Z >= 40 dBZ](https://abfunk.github.io/Nepal/nepal_points_map_ge_40_dbz.html)
 
 
 ## Welcome to GitHub Pages
