@@ -5,7 +5,7 @@
 2. Nepal (Small domain) - **80E-89E, 26N-31N**
 
 ### Maps
-Map data are a combination of 2APR (TRMM v8 Legacy, ) and 2ADPR (GPM v6 dual-frequecny, 2014-2020)
+Map data are a combination of 2APR (TRMM v8 Legacy, 2008-2014) and 2ADPR (GPM v6 dual-frequecny, 2014-2020)
 
 #### Regional Maps
 1. [PR+DPR Near-surface Z >= 14 dBZ](https://abfunk.github.io/Nepal/images/maps/trmm_gpm_orbital_counts_map_ge_14_dbz_nepal.html)
