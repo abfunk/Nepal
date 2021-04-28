@@ -15,7 +15,7 @@ Map data are a combination of 2APR (TRMM v8 Legacy, ) and 2ADPR (GPM v6 dual-fre
 
 #### Nepal Maps (zoomed)
 1. [PR+DPR Near-surface Z >= 14 dBZ](https://abfunk.github.io/Nepal/images/maps/trmm_gpm_orbital_counts_map_ge_14_dbz_nepal.html)
-2. [PR+DPR Near-surface Z >= 14 dBZ - Monsoon](https://abfunk.github.io/Nepal/images/maps/trmm_gpm_orbital_counts_map_ge_14_dbz_nepal_monsoon_months.html)
+2. [PR+DPR Near-surface Z >= 14 dBZ - Non-Monsoon](https://abfunk.github.io/Nepal/images/maps/trmm_gpm_orbital_counts_map_ge_14_dbz_nepal_non_monsoon_months.html)
 3. [PR+DPR Near-surface Z >= 14 dBZ - Non-Monsoon](https://abfunk.github.io/Nepal/images/maps/trmm_gpm_orbital_counts_map_ge_14_dbz_nepal_non_monsoon_months.html)
 
 
