@@ -21,5 +21,7 @@ Map data are a combination of 2APR (TRMM v8 Legacy, ) and 2ADPR (GPM v6 dual-fre
 
 
 ### Histograms
+
+#### Regional
 1. [PR+DPR Strat./Conv. Near-surface Rain Rate Mean by Local Hour](https://abfunk.github.io/Nepal/images/hists/trmm_gpm_sf_conv_rain_rate_histograms_local_hour_nepal.html)
 
