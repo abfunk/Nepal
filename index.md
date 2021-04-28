@@ -1,7 +1,7 @@
 ## Nepal TRMM/GPM
 
 ### Domains
-1. Himalays (Large domain) - **65E-105E, 20N-50N**
+1. Himalayas (Large domain) - **65E-105E, 20N-50N**
 2. Nepal (Small domain) - **80E-89E, 26N-31N**
 
 ### Maps
