@@ -1,5 +1,9 @@
 ## Nepal TRMM/GPM
 
+### Domains
+1. Himalays (Large domain) - **65E-105E, 20N-50N**
+2. Nepal (Small domain) - **80E-89E, 26N-31N**
+
 ### Maps
 Map data are a combination of 2APR (TRMM v8 Legacy, ) and 2ADPR (GPM v6 dual-frequecny, 2014-2020)
 
