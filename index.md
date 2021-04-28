@@ -10,7 +10,7 @@ Map data are a combination of 2APR (TRMM v8 Legacy, ) and 2ADPR (GPM v6 dual-fre
 
 
 #### Nepal Maps (zoomed)
-1. [Fake link](hi)
+1. [PR+DPR Near-surface Z >= 14 dBZ](https://abfunk.github.io/Nepal/images/maps/trmm_gpm_orbital_counts_map_ge_14_dbz_nepal_zoomed.html)
 2. 
 
 
